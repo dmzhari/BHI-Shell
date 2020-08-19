@@ -2,7 +2,7 @@
 - Login With Authenticate
 
 ## Tool
-- Symlink (Symlink V2/ Symlink 404)
+- Symlink (Symlink 404 / Symlink 403)
 - Jumping
 - Hash Generate
 - Hash Identifier
